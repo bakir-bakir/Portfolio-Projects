@@ -1,4 +1,6 @@
 Exploratory Data Analysis of COVID-19 Cases, Deaths, and Vaccinations Worldwide
+Source: ourworldindata.org
+Tools Used: MS SQL Server Management System, MS PowerBI, Tablaeau
 
 Description:
 The aim of this exploratory data analysis (EDA) project is to analyze and gain insights into the global 
