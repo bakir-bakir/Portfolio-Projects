@@ -8,7 +8,8 @@ of the industry.
 
 The project involves the following key steps:
 
-1.Data Cleaning: Employing Python's data manipulation libraries, we clean the dataset to ensure data integrity and consistency. This includes handling missing values, removing duplicates, and addressing any inconsistencies in the data.
+1.Data Cleaning: Employing Python's data manipulation libraries, we clean the dataset to ensure data integrity and consistency. This includes handling missing
+values, removing duplicates, and addressing any inconsistencies in the data.
 
 2.Exploratory Data Analysis: Conducting an initial exploration of the dataset to understand its structure and contents. We examine the distribution of budget and
 gross revenue, identify outliers, and explore the composition of production companies within the dataset.
