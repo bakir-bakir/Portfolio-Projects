@@ -25,4 +25,5 @@ Insights and Interpretation: Deriving meaningful insights from the analysis, we 
 revenue across different production companies, and the relationship between budget and the success of movies. We also investigate any notable trends or outliers that
 may influence these relationships.
 
-Throughout the project, Python's powerful data analysis and visualization capabilities are leveraged to extract insights from the IMDB Movies dataset. By studying the interplay between budget, gross revenue, and production companies, we aim to provide valuable insights for movie industry professionals, investors, and stakeholders.
+Throughout the project, Python's powerful data analysis and visualization capabilities are leveraged to extract insights from the IMDB Movies dataset.
+By studying the interplay between budget, gross revenue, and production companies, we aim to provide valuable insights for movie industry professionals, investors, and stakeholders.
