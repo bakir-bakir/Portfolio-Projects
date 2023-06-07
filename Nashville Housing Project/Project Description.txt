@@ -3,13 +3,15 @@ In this data cleaning project, we focus on a Nashville housing dataset to ensure
 The project aims to prepare the dataset for further analysis and modeling by addressing common data quality issues and cleaning up inconsistencies.
 
 The dataset used for this project comprises housing-related information from various sources, including property listings, sales records,
-and demographic data specific to Nashville, Tennessee. It includes attributes such as property addresses, sale prices, square footage, number of bedrooms and bathrooms, and other relevant features.
+and demographic data specific to Nashville, Tennessee. It includes attributes such as property addresses, sale prices, square footage, 
+number of bedrooms and bathrooms, and other relevant features.
 
 The project involves several key steps:
 
 1.Data Import: Import the raw dataset into SQL Server, ensuring that the data is correctly formatted and loaded into appropriate tables.
 
-2.Data Exploration: Conduct an initial exploration of the dataset to gain a deeper understanding of its structure, content, and potential data quality issues. Identify potential inconsistencies, missing values, outliers, or anomalies that need to be addressed.
+2.Data Exploration: Conduct an initial exploration of the dataset to gain a deeper understanding of its structure, content, 
+and potential data quality issues. Identify potential inconsistencies, missing values, outliers, or anomalies that need to be addressed.
 
 3.Data Cleaning and Transformation: Apply a range of data cleaning techniques to improve the dataset's quality and consistency, such as:
 
