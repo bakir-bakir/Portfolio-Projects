@@ -1,1 +1,3 @@
 https://public.tableau.com/views/Covid-19VaccinationTracker_16856043804440/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Note: some data percentages are occasionally exceding 100% due to the population in the source's dataset being a constant number for some countries.
