@@ -7,13 +7,17 @@ and visualized to gain insights into the video trends of a particular channel.
 
 The program involves the following key steps:
 
-YouTube API Connection Setup: Using the Google Cloud API key, we establish a connection to the YouTube API. This allows us to authenticate and interact with the YouTube platform programmatically.
+YouTube API Connection Setup: Using the Google Cloud API key, we establish a connection to the YouTube API. This allows us to authenticate and interact
+with the YouTube platform programmatically.
 
-Channel Data Retrieval: Using the YouTube API, we fetch data from several YouTube channels by providing their respective channel keys. This data may include attributes such as channel name, subscriber count, view count, and other relevant statistics.
+Channel Data Retrieval: Using the YouTube API, we fetch data from several YouTube channels by providing their respective channel keys.
+This data may include attributes such as channel name, subscriber count, view count, and other relevant statistics.
 
-Video Data Extraction: Focusing on a specific channel of interest, we extract video-related data from that channel. This includes details such as video titles, upload dates, view counts, like counts, and comment counts.
+Video Data Extraction: Focusing on a specific channel of interest, we extract video-related data from that channel.
+This includes details such as video titles, upload dates, view counts, like counts, and comment counts.
 
-Data Cleaning: To ensure data accuracy and consistency, we perform cleaning operations on the extracted video data. This involves handling missing values, removing duplicates, and addressing any inconsistencies in the dataset.
+Data Cleaning: To ensure data accuracy and consistency, we perform cleaning operations on the extracted video data.
+This involves handling missing values, removing duplicates, and addressing any inconsistencies in the dataset.
 
 Visualization Creation: Utilizing Python's data visualization libraries, such as Matplotlib or Seaborn, we generate visual representations of the video data. This may include bar charts, line graphs, or pie charts, providing a visual overview of video trends, viewership, or engagement metrics.
 
