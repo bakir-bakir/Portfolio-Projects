@@ -1,11 +1,13 @@
 Real-Time Data Retrieval and Visualization of Cryptocurrency Market Trends using CoinMarketCap API in Python
 
 Description:
-In this Python program, we leverage the CoinMarketCap API to establish a connection with the coinmarketcap.com website and retrieve real-time data on cryptocurrency market trends. The program includes features such as continuous data retrieval through a timer function, data cleaning to ensure accuracy, and the creation of visualizations for effective data representation.
+In this Python program, we leverage the CoinMarketCap API to establish a connection with the coinmarketcap.com website and retrieve real-time data on
+cryptocurrency market trends. The program includes features such as continuous data retrieval through a timer function, data cleaning to ensure accuracy, and the creation of visualizations for effective data representation.
 
 The program encompasses the following main steps:
 
-API Connection Setup: Using Python's requests library, we establish a connection to the CoinMarketCap API. This allows us to send HTTP requests and retrieve data in JSON format.
+API Connection Setup: Using Python's requests library, we establish a connection to the CoinMarketCap API. This allows us to send HTTP requests and retrieve
+data in JSON format.
 
 Continuous Data Retrieval: Implementing a timer function, we schedule periodic data retrieval from the CoinMarketCap API. This ensures that the program consistently pulls the latest information on cryptocurrency market trends at predefined intervals.
 
