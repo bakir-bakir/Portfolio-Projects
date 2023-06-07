@@ -3,11 +3,13 @@ In this data analysis project, we explore an IMDB Movies dataset using Python to
 companies. The project involves data cleaning, visualization, and the study of a correlation matrix to uncover patterns and trends within the movie industry.
 
 The dataset used for this analysis contains information about various movies, including attributes such as budget, gross revenue, production companies, and other
-relevant features. The dataset provides a comprehensive view of the movie landscape, enabling us to delve into the financial aspects and production dynamics of the industry.
+relevant features. The dataset provides a comprehensive view of the movie landscape, enabling us to delve into the financial aspects and production dynamics
+of the industry.
 
 The project involves the following key steps:
 
-Data Cleaning: Employing Python's data manipulation libraries, we clean the dataset to ensure data integrity and consistency. This includes handling missing values, removing duplicates, and addressing any inconsistencies in the data.
+Data Cleaning: Employing Python's data manipulation libraries, we clean the dataset to ensure data integrity and consistency. This includes handling missing values,
+removing duplicates, and addressing any inconsistencies in the data.
 
 Exploratory Data Analysis: Conducting an initial exploration of the dataset to understand its structure and contents. We examine the distribution of budget and gross revenue, identify outliers, and explore the composition of production companies within the dataset.
 
