@@ -1,0 +1,45 @@
+Exploratory Data Analysis of COVID-19 Cases, Deaths, and Vaccinations Worldwide
+
+Description:
+The aim of this exploratory data analysis (EDA) project is to analyze and gain insights into the global COVID-19 pandemic using data related to cases, deaths, and vaccinations. The project utilizes SQL Server as the database management system to extract, transform, and analyze the data.
+
+The dataset used in this project consists of multiple tables containing information on COVID-19 cases, deaths, and vaccinations from various countries around the world. The tables are structured in a relational database schema, allowing for efficient querying and analysis.
+
+Data Preparation and Cleaning:
+
+Importing the dataset into SQL Server and ensuring data integrity.
+Handling missing or inconsistent values, and removing any outliers if necessary.
+
+Exploratory Data Analysis:
+
+Conducting an initial overview of the dataset to understand its structure and variables.
+Analyzing the distribution of COVID-19 cases, deaths, and vaccinations across different regions and countries.
+Examining temporal trends, including daily, weekly, or monthly variations in cases, deaths, and vaccinations.
+Investigating correlations between variables to identify potential relationships or dependencies.
+
+Data Visualization:
+
+Creating visually appealing charts, graphs, and maps to present the findings effectively.
+Visualizing the geographic distribution of cases, deaths, and vaccination rates using PowerBI and Tableau. And generating interactive visualizations to allow users to explore the data and make meaningful observations.
+
+Insights and Interpretation:
+
+Deriving meaningful insights from the analysis, such as identifying countries with high infection rates, understanding the impact of vaccination campaigns, or determining the correlation between case rates and mortality rates.
+
+Throughout the project, SQL Server's powerful querying capabilities are utilized to extract, transform, and analyze the data efficiently. The goal is to uncover meaningful patterns, relationships, and trends that can contribute to our understanding of the global COVID-19 pandemic.
+
+By conducting this exploratory data analysis, we aim to provide valuable insights that can support policymakers, researchers, and healthcare professionals in making informed decisions and taking appropriate actions to combat the ongoing pandemic.
+----------------------------------------------------------------------------------------------------
+
+
+Summary:
+
+In this exploratory data analysis project conducted in SQL Server, we analyze the global COVID-19 pandemic by examining the cases, deaths, and vaccinations worldwide. The project aims to gain insights into the trends and relationships among these metrics to provide a comprehensive understanding of the pandemic's impact.
+
+The project involves data preparation and cleaning, followed by exploratory data analysis and data visualization. The dataset used comprises COVID-19 data from reliable sources and covers a significant timeframe. SQL Server's querying capabilities are utilized to efficiently analyze the data.
+
+Key steps include understanding the dataset's structure, analyzing the distribution of cases, deaths, and vaccinations across regions and countries, examining temporal trends, and investigating correlations. Visualizations, including charts, graphs, and maps, are created to present the findings effectively.
+
+The project aims to provide insights and recommendations, such as identifying countries with high infection rates, understanding the impact of vaccinations, and determining correlations between case rates and mortality rates. These insights can support decision-making for policymakers, researchers, and healthcare professionals.
+
+Overall, the project leverages SQL Server's capabilities to conduct exploratory data analysis, derive meaningful insights, and contribute to our understanding of the global COVID-19 pandemic
