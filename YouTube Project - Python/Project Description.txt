@@ -2,7 +2,8 @@ Title: YouTube Data Retrieval and Visualization Program using Python and YouTube
 
 Description:
 This Python program is designed to connect to the YouTube API using a Google Cloud API key, enabling the retrieval of data from multiple YouTube channels.
-The program extracts video data from the specified channels using their unique channel keys. The retrieved data is then cleaned, appropriately grouped, and visualized to gain insights into the video trends of a particular channel.
+The program extracts video data from the specified channels using their unique channel keys. The retrieved data is then cleaned, appropriately grouped,
+and visualized to gain insights into the video trends of a particular channel.
 
 The program involves the following key steps:
 
