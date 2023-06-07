@@ -7,16 +7,17 @@ and the creation of visualizations for effective data representation.
 
 The program encompasses the following main steps:
 
-API Connection Setup: Using Python's requests library, we establish a connection to the CoinMarketCap API. This allows us to send HTTP requests and retrieve
+1.API Connection Setup: Using Python's requests library, we establish a connection to the CoinMarketCap API. This allows us to send HTTP requests and retrieve
 data in JSON format.
 
-Continuous Data Retrieval: Implementing a timer function, we schedule periodic data retrieval from the CoinMarketCap API. This ensures that the program
+2.Continuous Data Retrieval: Implementing a timer function, we schedule periodic data retrieval from the CoinMarketCap API. This ensures that the program
 consistently pulls the latest information on cryptocurrency market trends at predefined intervals.
 
-Data Cleaning: Upon receiving the data from the API, we perform data cleaning processes to handle any inconsistencies, missing values, or outliers.
+3.Data Cleaning: Upon receiving the data from the API, we perform data cleaning processes to handle any inconsistencies, missing values, or outliers.
 This ensures the data is accurate and reliable for further analysis and visualization.
 
-Data Grouping and Aggregation: Depending on the specific analysis goals, we group and aggregate the retrieved data based on relevant factors such as
+4.Data Grouping and Aggregation: Depending on the specific analysis goals, we group and aggregate the retrieved data based on relevant factors such as
 cryptocurrency type, market capitalization, price, or trading volume. This enables us to derive meaningful insights from the dataset.
 
-Visualization Creation: Utilizing Python's data visualization libraries, such as Matplotlib or Plotly, we create visually appealing and informative charts, graphs, or interactive visualizations. These visual representations help in understanding the trends, patterns, and relationships within the cryptocurrency market
+5.Visualization Creation: Utilizing Python's data visualization libraries, such as Matplotlib or Plotly, we create visually appealing and informative charts,
+graphs, or interactive visualizations. These visual representations help in understanding the trends, patterns, and relationships within the cryptocurrency market
