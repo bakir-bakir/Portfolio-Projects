@@ -19,6 +19,9 @@ This includes details such as video titles, upload dates, view counts, like coun
 Data Cleaning: To ensure data accuracy and consistency, we perform cleaning operations on the extracted video data.
 This involves handling missing values, removing duplicates, and addressing any inconsistencies in the dataset.
 
-Visualization Creation: Utilizing Python's data visualization libraries, such as Matplotlib or Seaborn, we generate visual representations of the video data. This may include bar charts, line graphs, or pie charts, providing a visual overview of video trends, viewership, or engagement metrics.
+Visualization Creation: Utilizing Python's data visualization libraries, such as Matplotlib or Seaborn, we generate visual representations of the video data.
+This may include bar charts, line graphs, or pie charts, providing a visual overview of video trends, viewership, or engagement metrics.
 
-The program's ability to connect to the YouTube API and retrieve data from multiple channels enhances the understanding of the video landscape. By cleaning and grouping the video data, we gain valuable insights into a specific channel's performance, audience engagement, and content trends. The visualizations enable effective communication of these insights and aid in decision-making processes.
+The program's ability to connect to the YouTube API and retrieve data from multiple channels enhances the understanding of the video landscape.
+By cleaning and grouping the video data, we gain valuable insights into a specific channel's performance, audience engagement, and content trends.
+The visualizations enable effective communication of these insights and aid in decision-making processes.
