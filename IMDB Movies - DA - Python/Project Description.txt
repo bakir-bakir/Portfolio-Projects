@@ -15,10 +15,14 @@ Exploratory Data Analysis: Conducting an initial exploration of the dataset to u
 gross revenue, identify outliers, and explore the composition of production companies within the dataset.
 
 Data Visualization: Creating visualizations using Python's data visualization libraries (e.g., Matplotlib, Seaborn) to gain insights into the relationships
-between budget, gross revenue, and production companies. We generate various types of charts, such as scatter plots, bar charts, and box plots, to visually analyze the data and identify any significant patterns or trends.
+between budget, gross revenue, and production companies. We generate various types of charts, such as scatter plots, bar charts, and box plots, to visually analyze
+the data and identify any significant patterns or trends.
 
-Correlation Analysis: Utilizing Python's statistical libraries (e.g., NumPy, Pandas), we calculate and study the correlation matrix to understand the relationships between budget, gross revenue, and production companies. This analysis helps determine if there are any statistically significant correlations or dependencies among these variables.
+Correlation Analysis: Utilizing Python's statistical libraries (e.g., NumPy, Pandas), we calculate and study the correlation matrix to understand the relationships
+between budget, gross revenue, and production companies. This analysis helps determine if there are any statistically significant correlations or dependencies among these variables.
 
-Insights and Interpretation: Deriving meaningful insights from the analysis, we explore questions such as the impact of budget on gross revenue, the distribution of revenue across different production companies, and the relationship between budget and the success of movies. We also investigate any notable trends or outliers that may influence these relationships.
+Insights and Interpretation: Deriving meaningful insights from the analysis, we explore questions such as the impact of budget on gross revenue, the distribution of
+revenue across different production companies, and the relationship between budget and the success of movies. We also investigate any notable trends or outliers that
+may influence these relationships.
 
 Throughout the project, Python's powerful data analysis and visualization capabilities are leveraged to extract insights from the IMDB Movies dataset. By studying the interplay between budget, gross revenue, and production companies, we aim to provide valuable insights for movie industry professionals, investors, and stakeholders.
