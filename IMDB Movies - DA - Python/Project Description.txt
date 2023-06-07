@@ -11,9 +11,11 @@ The project involves the following key steps:
 Data Cleaning: Employing Python's data manipulation libraries, we clean the dataset to ensure data integrity and consistency. This includes handling missing values,
 removing duplicates, and addressing any inconsistencies in the data.
 
-Exploratory Data Analysis: Conducting an initial exploration of the dataset to understand its structure and contents. We examine the distribution of budget and gross revenue, identify outliers, and explore the composition of production companies within the dataset.
+Exploratory Data Analysis: Conducting an initial exploration of the dataset to understand its structure and contents. We examine the distribution of budget and
+gross revenue, identify outliers, and explore the composition of production companies within the dataset.
 
-Data Visualization: Creating visualizations using Python's data visualization libraries (e.g., Matplotlib, Seaborn) to gain insights into the relationships between budget, gross revenue, and production companies. We generate various types of charts, such as scatter plots, bar charts, and box plots, to visually analyze the data and identify any significant patterns or trends.
+Data Visualization: Creating visualizations using Python's data visualization libraries (e.g., Matplotlib, Seaborn) to gain insights into the relationships
+between budget, gross revenue, and production companies. We generate various types of charts, such as scatter plots, bar charts, and box plots, to visually analyze the data and identify any significant patterns or trends.
 
 Correlation Analysis: Utilizing Python's statistical libraries (e.g., NumPy, Pandas), we calculate and study the correlation matrix to understand the relationships between budget, gross revenue, and production companies. This analysis helps determine if there are any statistically significant correlations or dependencies among these variables.
 
