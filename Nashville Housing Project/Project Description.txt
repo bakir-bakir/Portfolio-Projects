@@ -2,7 +2,8 @@ Description:
 In this data cleaning project, we focus on a Nashville housing dataset to ensure data quality, consistency, and integrity using SQL Server.
 The project aims to prepare the dataset for further analysis and modeling by addressing common data quality issues and cleaning up inconsistencies.
 
-The dataset used for this project comprises housing-related information from various sources, including property listings, sales records, and demographic data specific to Nashville, Tennessee. It includes attributes such as property addresses, sale prices, square footage, number of bedrooms and bathrooms, and other relevant features.
+The dataset used for this project comprises housing-related information from various sources, including property listings, sales records,
+and demographic data specific to Nashville, Tennessee. It includes attributes such as property addresses, sale prices, square footage, number of bedrooms and bathrooms, and other relevant features.
 
 The project involves several key steps:
 
