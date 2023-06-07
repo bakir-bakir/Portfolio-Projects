@@ -17,7 +17,8 @@ and potential data quality issues. Identify potential inconsistencies, missing v
 
 4.Removing duplicates: Identify and eliminate duplicate records from the dataset to avoid redundancies and ensure data accuracy.
 
-5.Handling missing values: Assess the extent of missing values across different attributes and employ strategies like imputation or deletion, based on the nature and impact of the missingness.
+5.Handling missing values: Assess the extent of missing values across different attributes and employ strategies like imputation or deletion,
+based on the nature and impact of the missingness.
 
 6.Standardizing formats: Standardize and format data fields like addresses, phone numbers, and dates to ensure consistency and facilitate further analysis.
 
