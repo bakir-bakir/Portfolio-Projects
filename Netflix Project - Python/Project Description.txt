@@ -13,7 +13,8 @@ handling missing values, removing duplicates, and ensuring consistency in data t
 we lay the groundwork for subsequent analysis.
 
 Exploratory Data Analysis: With the formatted dataset, we conduct exploratory data analysis (EDA) to gain a better understanding of the Netflix content landscape.
-We analyze various aspects such as the distribution of movies and TV shows, genres, release years, directors, and ratings. This EDA phase helps identify trends, patterns, and interesting insights within the dataset.
+We analyze various aspects such as the distribution of movies and TV shows, genres, release years, directors, and ratings. This EDA phase helps identify trends,
+patterns, and interesting insights within the dataset.
 
 Data Analysis and Insights: Leveraging the capabilities of Pandas, NumPy, and other Python libraries, we perform deeper analysis to uncover key insights. We
 explore relationships between variables, such as the correlation between ratings and genres or the distribution of directors across different genres. We also
@@ -24,4 +25,5 @@ line charts, histograms, and heatmaps, among others. Through compelling visuals,
 discovered during the analysis phase.
 
 By leveraging the power of Python and its data analysis libraries, we uncover valuable insights about Netflix movies and TV shows. This project provides a
-comprehensive view of the content landscape, shedding light on trends, popular genres, director contributions, and rating distributions. The visualizations enhance the understanding of the data and facilitate effective communication of the findings.
+comprehensive view of the content landscape, shedding light on trends, popular genres, director contributions, and rating distributions. The visualizations enhance
+the understanding of the data and facilitate effective communication of the findings.
