@@ -23,4 +23,5 @@ Data Visualization: To effectively communicate the findings, we create visualiza
 line charts, histograms, and heatmaps, among others. Through compelling visuals, we highlight the distribution of content, showcase trends, and convey key insights
 discovered during the analysis phase.
 
-By leveraging the power of Python and its data analysis libraries, we uncover valuable insights about Netflix movies and TV shows. This project provides a comprehensive view of the content landscape, shedding light on trends, popular genres, director contributions, and rating distributions. The visualizations enhance the understanding of the data and facilitate effective communication of the findings.
+By leveraging the power of Python and its data analysis libraries, we uncover valuable insights about Netflix movies and TV shows. This project provides a
+comprehensive view of the content landscape, shedding light on trends, popular genres, director contributions, and rating distributions. The visualizations enhance the understanding of the data and facilitate effective communication of the findings.
