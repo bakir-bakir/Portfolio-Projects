@@ -3,11 +3,14 @@ Tools Used: Python (Pandas, Matplotlib, Seaborn, NumPy)
 
 Description:
 In this data analysis project, we dive into a comprehensive dataset that contains information about Netflix movies, TV shows, genres, directors, ratings, and more.
-Using Python's powerful data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we explore, format, analyze, and visualize the data to gain meaningful insights into the world of Netflix content.
+Using Python's powerful data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we explore, format, analyze, and visualize the data to gain
+meaningful insights into the world of Netflix content.
 
 The project encompasses the following key steps:
 
-Data Formatting and Cleaning: Initially, we load the dataset into a Pandas DataFrame and perform necessary data formatting and cleaning operations. This involves handling missing values, removing duplicates, and ensuring consistency in data types and formats. By transforming the dataset into a clean and structured format, we lay the groundwork for subsequent analysis.
+Data Formatting and Cleaning: Initially, we load the dataset into a Pandas DataFrame and perform necessary data formatting and cleaning operations. This involves
+handling missing values, removing duplicates, and ensuring consistency in data types and formats. By transforming the dataset into a clean and structured format,
+we lay the groundwork for subsequent analysis.
 
 Exploratory Data Analysis: With the formatted dataset, we conduct exploratory data analysis (EDA) to gain a better understanding of the Netflix content landscape. We analyze various aspects such as the distribution of movies and TV shows, genres, release years, directors, and ratings. This EDA phase helps identify trends, patterns, and interesting insights within the dataset.
 
