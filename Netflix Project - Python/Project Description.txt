@@ -2,7 +2,8 @@ Title: Exploratory Data Analysis of Netflix Content Dataset
 Tools Used: Python (Pandas, Matplotlib, Seaborn, NumPy)
 
 Description:
-In this data analysis project, we dive into a comprehensive dataset that contains information about Netflix movies, TV shows, genres, directors, ratings, and more. Using Python's powerful data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we explore, format, analyze, and visualize the data to gain meaningful insights into the world of Netflix content.
+In this data analysis project, we dive into a comprehensive dataset that contains information about Netflix movies, TV shows, genres, directors, ratings, and more.
+Using Python's powerful data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we explore, format, analyze, and visualize the data to gain meaningful insights into the world of Netflix content.
 
 The project encompasses the following key steps:
 
